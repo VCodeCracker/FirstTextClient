@@ -1,0 +1,26 @@
+
+j
+java:S1104	"NMake rc a static final constant or non-public and provide accessors if needed.(Ùáòb8ºÓê´Â1
+p
+java:S1104
+"NMake rl a static final constant or non-public and provide accessors if needed.(ÕÍ¼ìÿÿÿÿÿ8»Óê´Â1
+k
+java:S1104"NMake rf a static final constant or non-public and provide accessors if needed.(—ƒ¼Ò8»Óê´Â1
+D
+java:S1444	"(Make this "public static rc" field final(Ùáòb8»Óê´Â1
+J
+java:S1444
+"(Make this "public static rl" field final(ÕÍ¼ìÿÿÿÿÿ8»Óê´Â1
+E
+java:S1444"(Make this "public static rf" field final(—ƒ¼Ò8»Óê´Â1
+9
+java:S2386	"Make this member "protected".(Ùáòb8óÓê´Â1
+?
+java:S2386
+"Make this member "protected".(ÕÍ¼ìÿÿÿÿÿ8óÓê´Â1
+:
+java:S2386"Make this member "protected".(—ƒ¼Ò8óÓê´Â1
+3
+java:S2119q"Save and re-use this "Random".(¼İÅf
+V	java:S125u"<This block of commented-out lines of code should be removed.(—æÎĞúÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(‘ÂÖÎıÿÿÿÿ

@@ -1,0 +1,13 @@
+
+l	java:S116""WRename this field "MessageInput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÇÁ÷
+r	java:S116%"XRename this field "MessageOutput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óäÿºÿÿÿÿÿ
+p	java:S116("VRename this field "SendMessage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ó™Ëÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¨ÕÒıÿÿÿÿ
+Y
+java:S1128"7Remove this unused import 'javafx.scene.control.Label'.(ö²­ÿÿÿÿÿ8¯ãäĞÅ1
+^
+java:S1128	"ARemove this unused import 'java.security.spec.RSAOtherPrimeInfo'.(“¹ÌÉ8°ãäĞÅ1
+Q
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8ñååĞÅ1
+V
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8óååĞÅ1

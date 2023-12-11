@@ -1,0 +1,32 @@
+
+|
+java:S1488e"`Immediately return this expression instead of assigning it to the temporary variable "toReturn".(ŠÇĞ8óééĞÅ1
+2
+java:S1700"Rename field "client"(şÌÿ8ôééĞÅ1
+]	java:S125"<This block of commented-out lines of code should be removed.(¿´™Ïıÿÿÿÿ8´êéĞÅ1
+{
+java:S21427"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8·êéĞÅ1
+G	java:S106/"+Replace this use of System.out by a logger.(ò˜Å®8½êéĞÅ1
+]	java:S1254"<This block of commented-out lines of code should be removed.(°âÚÅüÿÿÿÿ8¿êéĞÅ1
+L	java:S1068"+Replace this use of System.out by a logger.(ÑîÚİøÿÿÿÿ8ÀêéĞÅ1
+G	java:S106Q"+Replace this use of System.out by a logger.(Šäé8ÆêéĞÅ1
+L	java:S106T"+Replace this use of System.err by a logger.(¬¾Û«ûÿÿÿÿ8ÆêéĞÅ1
+U
+java:S1854\"9Remove this useless assignment to local variable "morse".(ğ›¨8ÇêéĞÅ1
+W	java:S125["<This block of commented-out lines of code should be removed.(ñ«ï58ÈêéĞÅ1
+A
+java:S2440\"%Remove this instantiation of "Morse".(ğ›¨8ÈêéĞÅ1
+F
+java:S1481\"*Remove this unused "morse" local variable.(ğ›¨8ÉêéĞÅ1
+X	java:S125c"<This block of commented-out lines of code should be removed.(“¨¨¦8ËêéĞÅ1
+X	java:S125f"<This block of commented-out lines of code should be removed.(©¡Ôœ8ÌêéĞÅ1
+U
+java:S1854k"9Remove this useless assignment to local variable "morse".(ğ›¨8ÍêéĞÅ1
+A
+java:S2440k"%Remove this instantiation of "Morse".(ğ›¨8ÍêéĞÅ1
+F
+java:S1481k"*Remove this unused "morse" local variable.(ğ›¨8ÎêéĞÅ1
+Z
+java:S1128"8Remove this unused import 'javafx.application.Platform'.(§“óùÿÿÿÿ8ÓêéĞÅ1
+e
+java:S1128"CRemove this unused import 'javax.swing.tree.DefaultTreeCellEditor'.(úÁâ’ûÿÿÿÿ8ÓêéĞÅ1
